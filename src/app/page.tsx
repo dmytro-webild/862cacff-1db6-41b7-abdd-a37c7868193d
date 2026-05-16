@@ -52,7 +52,7 @@ export default function LandingPage() {
         { name: "Faith B.", handle: "@faith_b", testimonial: "High quality gadgets, would highly recommend to everyone.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/beautiful-teenagers-enjoying-amusement-park_23-2148624855.jpg" }
       ]}
       buttons={[{ text: "Visit Store", href: "#products" }]}
-      imageSrc="http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg?_wi=1"
       avatars={[
         { src: "http://img.b2bpic.net/free-photo/teleworker-home-office-editing-documents-his-personal-laptop_482257-125861.jpg", alt: "Teleworker at home office" },
         { src: "http://img.b2bpic.net/free-photo/happy-handsome-young-african-american-businessman-dressed-shirt_273609-9150.jpg", alt: "Businessman" },
@@ -116,7 +116,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         { id: "basic", title: "Essential Care", price: "KSh 1,500", period: "/year", features: ["Phone screen insurance", "1-year basic support"], button: { text: "Select Plan" }, imageSrc: "http://img.b2bpic.net/free-photo/background-with-printed-circuit-board-concept-modern-technologies_169016-61800.jpg" },
-        { id: "pro", title: "Premium Protection", price: "KSh 3,000", period: "/year", features: ["Full accidental coverage", "2-year priority support", "Free battery check"], button: { text: "Select Plan" }, imageSrc: "http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg" },
+        { id: "pro", title: "Premium Protection", price: "KSh 3,000", period: "/year", features: ["Full accidental coverage", "2-year priority support", "Free battery check"], button: { text: "Select Plan" }, imageSrc: "http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg?_wi=2" },
         { id: "ultimate", title: "Ultimate Peace", price: "KSh 5,000", period: "/year", features: ["Everything in Premium", "Device replacement option", "24/7 expert remote help"], button: { text: "Select Plan" }, imageSrc: "http://img.b2bpic.net/free-photo/seller-man-mobile-phone-professional-consultant-tech-store-shop-hold-new-smartphone-hand_627829-4967.jpg" }
       ]}
       title="Tech Protection Plans"
