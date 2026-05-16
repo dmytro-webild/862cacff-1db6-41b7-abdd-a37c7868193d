@@ -99,7 +99,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg?_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/teleworker-home-office-editing-documents-his-personal-laptop_482257-125861.jpg",
@@ -286,7 +286,7 @@ export default function LandingPage() {
           button: {
             text: "Select Plan",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/girl-with-shopping-bags-holding-tablet-mock-up_23-2148286182.jpg?_wi=2",
           imageAlt: "tech background abstract",
         },
         {
